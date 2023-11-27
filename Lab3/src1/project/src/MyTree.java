@@ -11,13 +11,13 @@ import tree.MyNode;
  * @author Torbjorn Ekman
  * @see MyNode
  */
-public class MyTree {
+public class HobbesTree {
   private MyNode root;
 
   /**
    * Class constructor.
    */
-  public CalvinsTree() {
+  public HobbesTree() {
   }
 
   /**
