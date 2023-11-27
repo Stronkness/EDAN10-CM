@@ -17,7 +17,7 @@ public class MyTree {
   /**
    * Class constructor.
    */
-  public MyTree() {
+  public CalvinsTree() {
   }
 
   /**
